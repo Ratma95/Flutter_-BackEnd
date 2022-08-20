@@ -1,0 +1,27 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+
+# Only exists if Bazel was run
+
+
+# dependencies
+
+
+# profiling files
+
+
+# IDEs and editors
+.git
+
+
+# IDE - VSCode
+
+# misc
+/__pycache__
+
+# System Files
+Thumbs.db
+
+#environment variables
+.env
